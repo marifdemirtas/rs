@@ -1,0 +1,501 @@
+student_id,restaurant,rating
+0,Bangkok Thai & Pho 911,3
+1,Bangkok Thai & Pho 911,5
+2,Bangkok Thai & Pho 911,4
+3,Bangkok Thai & Pho 911,5
+4,Bangkok Thai & Pho 911,4
+5,Bangkok Thai & Pho 911,3
+6,Bangkok Thai & Pho 911,4
+7,Bangkok Thai & Pho 911,4
+8,Bangkok Thai & Pho 911,4
+9,Bangkok Thai & Pho 911,4
+10,Bangkok Thai & Pho 911,4
+11,Bangkok Thai & Pho 911,3
+12,Bangkok Thai & Pho 911,4
+13,Bangkok Thai & Pho 911,4
+14,Bangkok Thai & Pho 911,5
+15,Bangkok Thai & Pho 911,4
+16,Bangkok Thai & Pho 911,5
+17,Bangkok Thai & Pho 911,3
+18,Bangkok Thai & Pho 911,3
+19,Bangkok Thai & Pho 911,4
+20,Bangkok Thai & Pho 911,3
+21,Bangkok Thai & Pho 911,4
+22,Bangkok Thai & Pho 911,4
+23,Bangkok Thai & Pho 911,4
+24,Bangkok Thai & Pho 911,4
+25,Bangkok Thai & Pho 911,5
+26,Bangkok Thai & Pho 911,4
+27,Bangkok Thai & Pho 911,4
+28,Bangkok Thai & Pho 911,5
+29,Bangkok Thai & Pho 911,4
+30,Bangkok Thai & Pho 911,5
+31,Bangkok Thai & Pho 911,3
+32,Bangkok Thai & Pho 911,4
+33,Bangkok Thai & Pho 911,4
+34,Bangkok Thai & Pho 911,5
+35,Bangkok Thai & Pho 911,5
+36,Bangkok Thai & Pho 911,5
+37,Bangkok Thai & Pho 911,5
+38,Bangkok Thai & Pho 911,4
+39,Bangkok Thai & Pho 911,4
+40,Bangkok Thai & Pho 911,4
+41,Bangkok Thai & Pho 911,4
+42,Bangkok Thai & Pho 911,3
+43,Bangkok Thai & Pho 911,4
+44,Bangkok Thai & Pho 911,5
+45,Bangkok Thai & Pho 911,3
+46,Bangkok Thai & Pho 911,4
+47,Bangkok Thai & Pho 911,5
+48,Bangkok Thai & Pho 911,4
+49,Bangkok Thai & Pho 911,4
+0,Latea Bubble Tea Lounge,5
+1,Latea Bubble Tea Lounge,4
+2,Latea Bubble Tea Lounge,2
+3,Latea Bubble Tea Lounge,5
+4,Latea Bubble Tea Lounge,3
+5,Latea Bubble Tea Lounge,4
+6,Latea Bubble Tea Lounge,5
+7,Latea Bubble Tea Lounge,5
+8,Latea Bubble Tea Lounge,3
+9,Latea Bubble Tea Lounge,4
+10,Latea Bubble Tea Lounge,5
+11,Latea Bubble Tea Lounge,5
+12,Latea Bubble Tea Lounge,2
+13,Latea Bubble Tea Lounge,5
+14,Latea Bubble Tea Lounge,5
+15,Latea Bubble Tea Lounge,3
+16,Latea Bubble Tea Lounge,5
+17,Latea Bubble Tea Lounge,3
+18,Latea Bubble Tea Lounge,4
+19,Latea Bubble Tea Lounge,4
+20,Latea Bubble Tea Lounge,4
+21,Latea Bubble Tea Lounge,4
+22,Latea Bubble Tea Lounge,4
+23,Latea Bubble Tea Lounge,5
+24,Latea Bubble Tea Lounge,4
+25,Latea Bubble Tea Lounge,4
+26,Latea Bubble Tea Lounge,3
+27,Latea Bubble Tea Lounge,2
+28,Latea Bubble Tea Lounge,5
+29,Latea Bubble Tea Lounge,4
+30,Latea Bubble Tea Lounge,4
+31,Latea Bubble Tea Lounge,5
+32,Latea Bubble Tea Lounge,4
+33,Latea Bubble Tea Lounge,4
+34,Latea Bubble Tea Lounge,3
+35,Latea Bubble Tea Lounge,5
+36,Latea Bubble Tea Lounge,5
+37,Latea Bubble Tea Lounge,5
+38,Latea Bubble Tea Lounge,2
+39,Latea Bubble Tea Lounge,4
+40,Latea Bubble Tea Lounge,4
+41,Latea Bubble Tea Lounge,5
+42,Latea Bubble Tea Lounge,5
+43,Latea Bubble Tea Lounge,4
+44,Latea Bubble Tea Lounge,3
+45,Latea Bubble Tea Lounge,4
+46,Latea Bubble Tea Lounge,4
+47,Latea Bubble Tea Lounge,4
+48,Latea Bubble Tea Lounge,5
+49,Latea Bubble Tea Lounge,5
+0,Legends,2
+1,Legends,4
+2,Legends,4
+3,Legends,4
+4,Legends,3
+5,Legends,4
+6,Legends,4
+7,Legends,3
+8,Legends,4
+9,Legends,3
+10,Legends,4
+11,Legends,4
+12,Legends,3
+13,Legends,5
+14,Legends,4
+15,Legends,3
+16,Legends,3
+17,Legends,5
+18,Legends,5
+19,Legends,2
+20,Legends,4
+21,Legends,3
+22,Legends,4
+23,Legends,5
+24,Legends,3
+25,Legends,3
+26,Legends,2
+27,Legends,4
+28,Legends,5
+29,Legends,4
+30,Legends,5
+31,Legends,4
+32,Legends,5
+33,Legends,5
+34,Legends,5
+35,Legends,4
+36,Legends,5
+37,Legends,4
+38,Legends,4
+39,Legends,3
+40,Legends,3
+41,Legends,5
+42,Legends,4
+43,Legends,3
+44,Legends,2
+45,Legends,3
+46,Legends,5
+47,Legends,5
+48,Legends,3
+49,Legends,4
+0,Maize Mexican Grill,4
+1,Maize Mexican Grill,2
+2,Maize Mexican Grill,3
+3,Maize Mexican Grill,4
+4,Maize Mexican Grill,4
+5,Maize Mexican Grill,4
+6,Maize Mexican Grill,5
+7,Maize Mexican Grill,4
+8,Maize Mexican Grill,5
+9,Maize Mexican Grill,5
+10,Maize Mexican Grill,5
+11,Maize Mexican Grill,5
+12,Maize Mexican Grill,5
+13,Maize Mexican Grill,5
+14,Maize Mexican Grill,4
+15,Maize Mexican Grill,4
+16,Maize Mexican Grill,5
+17,Maize Mexican Grill,5
+18,Maize Mexican Grill,4
+19,Maize Mexican Grill,3
+20,Maize Mexican Grill,4
+21,Maize Mexican Grill,5
+22,Maize Mexican Grill,5
+23,Maize Mexican Grill,4
+24,Maize Mexican Grill,2
+25,Maize Mexican Grill,5
+26,Maize Mexican Grill,5
+27,Maize Mexican Grill,3
+28,Maize Mexican Grill,3
+29,Maize Mexican Grill,3
+30,Maize Mexican Grill,5
+31,Maize Mexican Grill,5
+32,Maize Mexican Grill,4
+33,Maize Mexican Grill,3
+34,Maize Mexican Grill,5
+35,Maize Mexican Grill,3
+36,Maize Mexican Grill,2
+37,Maize Mexican Grill,4
+38,Maize Mexican Grill,2
+39,Maize Mexican Grill,4
+40,Maize Mexican Grill,3
+41,Maize Mexican Grill,4
+42,Maize Mexican Grill,4
+43,Maize Mexican Grill,5
+44,Maize Mexican Grill,3
+45,Maize Mexican Grill,4
+46,Maize Mexican Grill,3
+47,Maize Mexican Grill,4
+48,Maize Mexican Grill,4
+49,Maize Mexican Grill,3
+0,Merry Ann’s Diner,3
+1,Merry Ann’s Diner,3
+2,Merry Ann’s Diner,4
+3,Merry Ann’s Diner,4
+4,Merry Ann’s Diner,5
+5,Merry Ann’s Diner,3
+6,Merry Ann’s Diner,3
+7,Merry Ann’s Diner,3
+8,Merry Ann’s Diner,4
+9,Merry Ann’s Diner,3
+10,Merry Ann’s Diner,4
+11,Merry Ann’s Diner,4
+12,Merry Ann’s Diner,5
+13,Merry Ann’s Diner,3
+14,Merry Ann’s Diner,4
+15,Merry Ann’s Diner,5
+16,Merry Ann’s Diner,2
+17,Merry Ann’s Diner,2
+18,Merry Ann’s Diner,3
+19,Merry Ann’s Diner,4
+20,Merry Ann’s Diner,4
+21,Merry Ann’s Diner,5
+22,Merry Ann’s Diner,5
+23,Merry Ann’s Diner,3
+24,Merry Ann’s Diner,5
+25,Merry Ann’s Diner,3
+26,Merry Ann’s Diner,3
+27,Merry Ann’s Diner,5
+28,Merry Ann’s Diner,3
+29,Merry Ann’s Diner,3
+30,Merry Ann’s Diner,4
+31,Merry Ann’s Diner,3
+32,Merry Ann’s Diner,4
+33,Merry Ann’s Diner,3
+34,Merry Ann’s Diner,3
+35,Merry Ann’s Diner,4
+36,Merry Ann’s Diner,4
+37,Merry Ann’s Diner,4
+38,Merry Ann’s Diner,4
+39,Merry Ann’s Diner,3
+40,Merry Ann’s Diner,2
+41,Merry Ann’s Diner,3
+42,Merry Ann’s Diner,3
+43,Merry Ann’s Diner,4
+44,Merry Ann’s Diner,4
+45,Merry Ann’s Diner,3
+46,Merry Ann’s Diner,4
+47,Merry Ann’s Diner,3
+48,Merry Ann’s Diner,3
+49,Merry Ann’s Diner,5
+0,Mia Za’s,3
+1,Mia Za’s,2
+2,Mia Za’s,2
+3,Mia Za’s,2
+4,Mia Za’s,4
+5,Mia Za’s,3
+6,Mia Za’s,4
+7,Mia Za’s,3
+8,Mia Za’s,3
+9,Mia Za’s,5
+10,Mia Za’s,2
+11,Mia Za’s,5
+12,Mia Za’s,2
+13,Mia Za’s,4
+14,Mia Za’s,3
+15,Mia Za’s,4
+16,Mia Za’s,2
+17,Mia Za’s,2
+18,Mia Za’s,3
+19,Mia Za’s,4
+20,Mia Za’s,3
+21,Mia Za’s,4
+22,Mia Za’s,2
+23,Mia Za’s,2
+24,Mia Za’s,4
+25,Mia Za’s,4
+26,Mia Za’s,3
+27,Mia Za’s,3
+28,Mia Za’s,1
+29,Mia Za’s,2
+30,Mia Za’s,4
+31,Mia Za’s,4
+32,Mia Za’s,2
+33,Mia Za’s,4
+34,Mia Za’s,4
+35,Mia Za’s,4
+36,Mia Za’s,3
+37,Mia Za’s,4
+38,Mia Za’s,5
+39,Mia Za’s,4
+40,Mia Za’s,4
+41,Mia Za’s,1
+42,Mia Za’s,1
+43,Mia Za’s,5
+44,Mia Za’s,3
+45,Mia Za’s,4
+46,Mia Za’s,4
+47,Mia Za’s,4
+48,Mia Za’s,2
+49,Mia Za’s,3
+0,Papa Del’s Pizza Factory,3
+1,Papa Del’s Pizza Factory,3
+2,Papa Del’s Pizza Factory,1
+3,Papa Del’s Pizza Factory,3
+4,Papa Del’s Pizza Factory,3
+5,Papa Del’s Pizza Factory,4
+6,Papa Del’s Pizza Factory,4
+7,Papa Del’s Pizza Factory,4
+8,Papa Del’s Pizza Factory,3
+9,Papa Del’s Pizza Factory,3
+10,Papa Del’s Pizza Factory,4
+11,Papa Del’s Pizza Factory,3
+12,Papa Del’s Pizza Factory,1
+13,Papa Del’s Pizza Factory,3
+14,Papa Del’s Pizza Factory,2
+15,Papa Del’s Pizza Factory,3
+16,Papa Del’s Pizza Factory,4
+17,Papa Del’s Pizza Factory,2
+18,Papa Del’s Pizza Factory,3
+19,Papa Del’s Pizza Factory,3
+20,Papa Del’s Pizza Factory,3
+21,Papa Del’s Pizza Factory,4
+22,Papa Del’s Pizza Factory,4
+23,Papa Del’s Pizza Factory,1
+24,Papa Del’s Pizza Factory,3
+25,Papa Del’s Pizza Factory,2
+26,Papa Del’s Pizza Factory,3
+27,Papa Del’s Pizza Factory,2
+28,Papa Del’s Pizza Factory,2
+29,Papa Del’s Pizza Factory,4
+30,Papa Del’s Pizza Factory,4
+31,Papa Del’s Pizza Factory,4
+32,Papa Del’s Pizza Factory,4
+33,Papa Del’s Pizza Factory,2
+34,Papa Del’s Pizza Factory,2
+35,Papa Del’s Pizza Factory,3
+36,Papa Del’s Pizza Factory,3
+37,Papa Del’s Pizza Factory,3
+38,Papa Del’s Pizza Factory,4
+39,Papa Del’s Pizza Factory,3
+40,Papa Del’s Pizza Factory,3
+41,Papa Del’s Pizza Factory,3
+42,Papa Del’s Pizza Factory,3
+43,Papa Del’s Pizza Factory,3
+44,Papa Del’s Pizza Factory,2
+45,Papa Del’s Pizza Factory,4
+46,Papa Del’s Pizza Factory,3
+47,Papa Del’s Pizza Factory,4
+48,Papa Del’s Pizza Factory,3
+49,Papa Del’s Pizza Factory,4
+0,Sakanaya,4
+1,Sakanaya,5
+2,Sakanaya,5
+3,Sakanaya,4
+4,Sakanaya,5
+5,Sakanaya,3
+6,Sakanaya,5
+7,Sakanaya,3
+8,Sakanaya,4
+9,Sakanaya,5
+10,Sakanaya,5
+11,Sakanaya,3
+12,Sakanaya,4
+13,Sakanaya,4
+14,Sakanaya,4
+15,Sakanaya,4
+16,Sakanaya,5
+17,Sakanaya,3
+18,Sakanaya,5
+19,Sakanaya,5
+20,Sakanaya,5
+21,Sakanaya,2
+22,Sakanaya,5
+23,Sakanaya,4
+24,Sakanaya,4
+25,Sakanaya,4
+26,Sakanaya,5
+27,Sakanaya,4
+28,Sakanaya,5
+29,Sakanaya,5
+30,Sakanaya,4
+31,Sakanaya,3
+32,Sakanaya,4
+33,Sakanaya,4
+34,Sakanaya,5
+35,Sakanaya,5
+36,Sakanaya,5
+37,Sakanaya,5
+38,Sakanaya,3
+39,Sakanaya,3
+40,Sakanaya,5
+41,Sakanaya,4
+42,Sakanaya,3
+43,Sakanaya,3
+44,Sakanaya,5
+45,Sakanaya,4
+46,Sakanaya,3
+47,Sakanaya,5
+48,Sakanaya,4
+49,Sakanaya,5
+0,The Bread Company,4
+1,The Bread Company,4
+2,The Bread Company,3
+3,The Bread Company,4
+4,The Bread Company,5
+5,The Bread Company,5
+6,The Bread Company,5
+7,The Bread Company,5
+8,The Bread Company,3
+9,The Bread Company,5
+10,The Bread Company,3
+11,The Bread Company,4
+12,The Bread Company,3
+13,The Bread Company,5
+14,The Bread Company,4
+15,The Bread Company,4
+16,The Bread Company,5
+17,The Bread Company,5
+18,The Bread Company,3
+19,The Bread Company,3
+20,The Bread Company,4
+21,The Bread Company,4
+22,The Bread Company,5
+23,The Bread Company,3
+24,The Bread Company,5
+25,The Bread Company,3
+26,The Bread Company,4
+27,The Bread Company,4
+28,The Bread Company,4
+29,The Bread Company,4
+30,The Bread Company,4
+31,The Bread Company,4
+32,The Bread Company,4
+33,The Bread Company,4
+34,The Bread Company,4
+35,The Bread Company,5
+36,The Bread Company,3
+37,The Bread Company,4
+38,The Bread Company,5
+39,The Bread Company,5
+40,The Bread Company,3
+41,The Bread Company,5
+42,The Bread Company,3
+43,The Bread Company,4
+44,The Bread Company,3
+45,The Bread Company,3
+46,The Bread Company,4
+47,The Bread Company,4
+48,The Bread Company,5
+49,The Bread Company,4
+0,Yogi Korean Restaurant,3
+1,Yogi Korean Restaurant,4
+2,Yogi Korean Restaurant,4
+3,Yogi Korean Restaurant,3
+4,Yogi Korean Restaurant,3
+5,Yogi Korean Restaurant,3
+6,Yogi Korean Restaurant,4
+7,Yogi Korean Restaurant,3
+8,Yogi Korean Restaurant,4
+9,Yogi Korean Restaurant,3
+10,Yogi Korean Restaurant,3
+11,Yogi Korean Restaurant,4
+12,Yogi Korean Restaurant,3
+13,Yogi Korean Restaurant,4
+14,Yogi Korean Restaurant,2
+15,Yogi Korean Restaurant,3
+16,Yogi Korean Restaurant,3
+17,Yogi Korean Restaurant,4
+18,Yogi Korean Restaurant,4
+19,Yogi Korean Restaurant,4
+20,Yogi Korean Restaurant,3
+21,Yogi Korean Restaurant,3
+22,Yogi Korean Restaurant,4
+23,Yogi Korean Restaurant,3
+24,Yogi Korean Restaurant,3
+25,Yogi Korean Restaurant,3
+26,Yogi Korean Restaurant,3
+27,Yogi Korean Restaurant,3
+28,Yogi Korean Restaurant,4
+29,Yogi Korean Restaurant,3
+30,Yogi Korean Restaurant,2
+31,Yogi Korean Restaurant,3
+32,Yogi Korean Restaurant,3
+33,Yogi Korean Restaurant,3
+34,Yogi Korean Restaurant,3
+35,Yogi Korean Restaurant,4
+36,Yogi Korean Restaurant,3
+37,Yogi Korean Restaurant,4
+38,Yogi Korean Restaurant,3
+39,Yogi Korean Restaurant,3
+40,Yogi Korean Restaurant,4
+41,Yogi Korean Restaurant,4
+42,Yogi Korean Restaurant,3
+43,Yogi Korean Restaurant,4
+44,Yogi Korean Restaurant,4
+45,Yogi Korean Restaurant,4
+46,Yogi Korean Restaurant,3
+47,Yogi Korean Restaurant,4
+48,Yogi Korean Restaurant,3
+49,Yogi Korean Restaurant,3

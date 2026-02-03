@@ -1,15 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="figshow",
+    name="tutorial",
     version="0.1.0",
     packages=find_packages(),
+    include_package_data=True,  # <--- CRITICAL: Tells pip to look at MANIFEST.in
     install_requires=[
         "seaborn",
+        "pandas"
     ],
     entry_points={
         "console_scripts": [
-            "figshow=figshow.main:show_figure",
+            "tutorial=tutorial.main:display",
         ],
     },
 )
