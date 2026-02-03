@@ -1,0 +1,3 @@
+username,email,first_name,last_name,password,course
+test_instructor,i@sql.com,arif,dem,test_instructor,cs102seaborn
+test_student,s1@sql.com,arif,dem,test_student,cs102seaborn
