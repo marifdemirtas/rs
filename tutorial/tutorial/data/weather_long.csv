@@ -1,0 +1,241 @@
+year,month,measurement_type,value
+2015,January,Total Precipitation (in),1.69
+2015,February,Total Precipitation (in),1.6
+2015,March,Total Precipitation (in),1.68
+2015,April,Total Precipitation (in),3.72
+2015,May,Total Precipitation (in),6.07
+2015,June,Total Precipitation (in),9.02
+2015,July,Total Precipitation (in),4.18
+2015,August,Total Precipitation (in),3.16
+2015,September,Total Precipitation (in),6.44
+2015,October,Total Precipitation (in),1.55
+2015,November,Total Precipitation (in),4.58
+2015,December,Total Precipitation (in),7.6
+2016,January,Total Precipitation (in),1.11
+2016,February,Total Precipitation (in),1.09
+2016,March,Total Precipitation (in),3.75
+2016,April,Total Precipitation (in),3.79
+2016,May,Total Precipitation (in),4.7
+2016,June,Total Precipitation (in),5.69
+2016,July,Total Precipitation (in),4.39
+2016,August,Total Precipitation (in),4.12
+2016,September,Total Precipitation (in),5.52
+2016,October,Total Precipitation (in),1.74
+2016,November,Total Precipitation (in),3.47
+2016,December,Total Precipitation (in),1.59
+2017,January,Total Precipitation (in),2.8
+2017,February,Total Precipitation (in),0.52
+2017,March,Total Precipitation (in),2.56
+2017,April,Total Precipitation (in),6.17
+2017,May,Total Precipitation (in),5.64
+2017,June,Total Precipitation (in),2.54
+2017,July,Total Precipitation (in),2.23
+2017,August,Total Precipitation (in),2.21
+2017,September,Total Precipitation (in),0.84
+2017,October,Total Precipitation (in),6.34
+2017,November,Total Precipitation (in),3.3
+2017,December,Total Precipitation (in),0.68
+2018,January,Total Precipitation (in),1.33
+2018,February,Total Precipitation (in),6.23
+2018,March,Total Precipitation (in),3.45
+2018,April,Total Precipitation (in),2.46
+2018,May,Total Precipitation (in),4.13
+2018,June,Total Precipitation (in),7.29
+2018,July,Total Precipitation (in),3.17
+2018,August,Total Precipitation (in),3.99
+2018,September,Total Precipitation (in),4.64
+2018,October,Total Precipitation (in),2.16
+2018,November,Total Precipitation (in),3.66
+2018,December,Total Precipitation (in),4.54
+2019,January,Total Precipitation (in),3.11
+2019,February,Total Precipitation (in),2.13
+2019,March,Total Precipitation (in),5.07
+2019,April,Total Precipitation (in),5.34
+2019,May,Total Precipitation (in),5.2
+2019,June,Total Precipitation (in),3.7
+2019,July,Total Precipitation (in),2.29
+2019,August,Total Precipitation (in),2.08
+2019,September,Total Precipitation (in),3.28
+2019,October,Total Precipitation (in),5.02
+2019,November,Total Precipitation (in),2.17
+2019,December,Total Precipitation (in),1.79
+2020,January,Total Precipitation (in),5.29
+2020,February,Total Precipitation (in),2.82
+2020,March,Total Precipitation (in),3.49
+2020,April,Total Precipitation (in),5.28
+2020,May,Total Precipitation (in),4.65
+2020,June,Total Precipitation (in),5.79
+2020,July,Total Precipitation (in),4.62
+2020,August,Total Precipitation (in),1.25
+2020,September,Total Precipitation (in),2.87
+2020,October,Total Precipitation (in),2.4
+2020,November,Total Precipitation (in),2.48
+2020,December,Total Precipitation (in),1.52
+2021,January,Total Precipitation (in),2.68
+2021,February,Total Precipitation (in),2.21
+2021,March,Total Precipitation (in),4.09
+2021,April,Total Precipitation (in),2.07
+2021,May,Total Precipitation (in),3.35
+2021,June,Total Precipitation (in),7.63
+2021,July,Total Precipitation (in),4.23
+2021,August,Total Precipitation (in),4.11
+2021,September,Total Precipitation (in),3.04
+2021,October,Total Precipitation (in),7.29
+2021,November,Total Precipitation (in),1.26
+2021,December,Total Precipitation (in),2.97
+2022,January,Total Precipitation (in),0.64
+2022,February,Total Precipitation (in),3.45
+2022,March,Total Precipitation (in),4.57
+2022,April,Total Precipitation (in),3.16
+2022,May,Total Precipitation (in),3.22
+2022,June,Total Precipitation (in),0.78
+2022,July,Total Precipitation (in),2.35
+2022,August,Total Precipitation (in),4.86
+2022,September,Total Precipitation (in),4.64
+2022,October,Total Precipitation (in),2.33
+2022,November,Total Precipitation (in),1.83
+2022,December,Total Precipitation (in),2.78
+2023,January,Total Precipitation (in),2.12
+2023,February,Total Precipitation (in),2.29
+2023,March,Total Precipitation (in),4.0
+2023,April,Total Precipitation (in),1.47
+2023,May,Total Precipitation (in),1.92
+2023,June,Total Precipitation (in),1.77
+2023,July,Total Precipitation (in),2.93
+2023,August,Total Precipitation (in),3.77
+2023,September,Total Precipitation (in),3.12
+2023,October,Total Precipitation (in),4.12
+2023,November,Total Precipitation (in),0.82
+2023,December,Total Precipitation (in),3.65
+2024,January,Total Precipitation (in),5.32
+2024,February,Total Precipitation (in),0.69
+2024,March,Total Precipitation (in),1.98
+2024,April,Total Precipitation (in),6.62
+2024,May,Total Precipitation (in),6.16
+2024,June,Total Precipitation (in),2.43
+2024,July,Total Precipitation (in),7.64
+2024,August,Total Precipitation (in),5.06
+2024,September,Total Precipitation (in),2.46
+2024,October,Total Precipitation (in),0.82
+2024,November,Total Precipitation (in),6.7
+2024,December,Total Precipitation (in),3.31
+2015,January,Average Temperature,25.4
+2015,February,Average Temperature,20.0
+2015,March,Average Temperature,38.2
+2015,April,Average Temperature,54.6
+2015,May,Average Temperature,66.1
+2015,June,Average Temperature,72.5
+2015,July,Average Temperature,74.0
+2015,August,Average Temperature,72.4
+2015,September,Average Temperature,69.6
+2015,October,Average Temperature,56.4
+2015,November,Average Temperature,46.0
+2015,December,Average Temperature,40.6
+2016,January,Average Temperature,27.4
+2016,February,Average Temperature,33.3
+2016,March,Average Temperature,47.8
+2016,April,Average Temperature,53.0
+2016,May,Average Temperature,61.5
+2016,June,Average Temperature,74.0
+2016,July,Average Temperature,74.7
+2016,August,Average Temperature,75.3
+2016,September,Average Temperature,70.0
+2016,October,Average Temperature,59.1
+2016,November,Average Temperature,46.1
+2016,December,Average Temperature,28.3
+2017,January,Average Temperature,31.6
+2017,February,Average Temperature,40.6
+2017,March,Average Temperature,41.9
+2017,April,Average Temperature,57.0
+2017,May,Average Temperature,61.4
+2017,June,Average Temperature,73.1
+2017,July,Average Temperature,77.3
+2017,August,Average Temperature,71.6
+2017,September,Average Temperature,69.3
+2017,October,Average Temperature,57.3
+2017,November,Average Temperature,42.5
+2017,December,Average Temperature,29.4
+2018,January,Average Temperature,24.6
+2018,February,Average Temperature,33.3
+2018,March,Average Temperature,38.4
+2018,April,Average Temperature,46.1
+2018,May,Average Temperature,72.2
+2018,June,Average Temperature,75.1
+2018,July,Average Temperature,74.7
+2018,August,Average Temperature,75.1
+2018,September,Average Temperature,70.8
+2018,October,Average Temperature,54.4
+2018,November,Average Temperature,35.4
+2018,December,Average Temperature,34.0
+2019,January,Average Temperature,24.4
+2019,February,Average Temperature,29.9
+2019,March,Average Temperature,36.7
+2019,April,Average Temperature,52.6
+2019,May,Average Temperature,63.7
+2019,June,Average Temperature,71.7
+2019,July,Average Temperature,77.3
+2019,August,Average Temperature,73.5
+2019,September,Average Temperature,71.7
+2019,October,Average Temperature,53.5
+2019,November,Average Temperature,36.0
+2019,December,Average Temperature,34.2
+2020,January,Average Temperature,31.5
+2020,February,Average Temperature,30.5
+2020,March,Average Temperature,43.6
+2020,April,Average Temperature,49.5
+2020,May,Average Temperature,60.6
+2020,June,Average Temperature,74.1
+2020,July,Average Temperature,77.2
+2020,August,Average Temperature,73.2
+2020,September,Average Temperature,65.2
+2020,October,Average Temperature,52.2
+2020,November,Average Temperature,45.7
+2020,December,Average Temperature,32.5
+2021,January,Average Temperature,29.2
+2021,February,Average Temperature,21.1
+2021,March,Average Temperature,45.2
+2021,April,Average Temperature,52.7
+2021,May,Average Temperature,61.0
+2021,June,Average Temperature,74.5
+2021,July,Average Temperature,74.3
+2021,August,Average Temperature,75.6
+2021,September,Average Temperature,69.8
+2021,October,Average Temperature,59.1
+2021,November,Average Temperature,39.4
+2021,December,Average Temperature,39.5
+2022,January,Average Temperature,22.4
+2022,February,Average Temperature,27.0
+2022,March,Average Temperature,41.9
+2022,April,Average Temperature,50.1
+2022,May,Average Temperature,65.5
+2022,June,Average Temperature,75.0
+2022,July,Average Temperature,76.4
+2022,August,Average Temperature,73.4
+2022,September,Average Temperature,66.6
+2022,October,Average Temperature,53.4
+2022,November,Average Temperature,41.4
+2022,December,Average Temperature,30.4
+2023,January,Average Temperature,33.8
+2023,February,Average Temperature,36.6
+2023,March,Average Temperature,40.4
+2023,April,Average Temperature,53.1
+2023,May,Average Temperature,65.6
+2023,June,Average Temperature,72.3
+2023,July,Average Temperature,75.9
+2023,August,Average Temperature,73.4
+2023,September,Average Temperature,68.2
+2023,October,Average Temperature,55.5
+2023,November,Average Temperature,43.1
+2023,December,Average Temperature,38.6
+2024,January,Average Temperature,26.1
+2024,February,Average Temperature,38.6
+2024,March,Average Temperature,46.7
+2024,April,Average Temperature,54.5
+2024,May,Average Temperature,67.2
+2024,June,Average Temperature,75.0
+2024,July,Average Temperature,74.1
+2024,August,Average Temperature,73.6
+2024,September,Average Temperature,69.1
+2024,October,Average Temperature,58.5
+2024,November,Average Temperature,45.5
+2024,December,Average Temperature,33.6
