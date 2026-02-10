@@ -1,10 +1,17 @@
 import base64
 import sys
 import secrets, os
+
+os.environ["MPLCONFIGDIR"] = "/tmp/mplconfig"
+
 import pandas as pd
 
 import seaborn as sns
-import matplotlib.pyplot as plt
+import matplotlib
+
+
+matplotlib.pyplot.rcParams['figure.constrained_layout.use'] = True
+
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -21,13 +28,13 @@ def show_file(filename=None):
     with open(filename, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode('utf-8')
 
-    print("@start_figure@" + encoded_string + "@end_figure@")
+    print("PLOT CREATED! CLICK 'SHOW IMAGE' BELOW --- ", "@start_figure@" + encoded_string + "@end_figure@")
 
 
 def display(object):
     if isinstance(object, sns.FacetGrid):
         figure = object._figure
-    elif isinstance(grid._figure, mpl.pyplot.Figure):
+    elif isinstance(object, matplotlib.axes.Axes):
         figure = object
     else:
         msg = '''
